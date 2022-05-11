@@ -43,11 +43,12 @@ Through this exercise i have been able to perfect my use of css flexbox and to e
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class= "container"> 
+</div>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.container {
+      display: flex;
 }
 ```
 
